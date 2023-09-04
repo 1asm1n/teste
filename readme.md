@@ -6,3 +6,4 @@ Este é um teste feito na aula sobre markdown e readme do curso sobre Java e Ang
 - hahaha
 - uauaua
 - alteracoes
+-alteraçoes 2.0
