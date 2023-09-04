@@ -5,3 +5,4 @@ Este é um teste feito na aula sobre markdown e readme do curso sobre Java e Ang
 - lalalala
 - hahaha
 - uauaua
+- alteracoes
